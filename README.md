@@ -1,2 +1,6 @@
-# Tic-tac-toe
-Juego TIC TAC TOE para aprendar REACT
+# Proyecto practica react
+Aprendiendo react con estos proyectos
+
+Juego TIC TAC TOE
+
+Mouse follower 
