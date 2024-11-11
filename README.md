@@ -17,9 +17,8 @@ nombre, elegir react y js + SWC
 para levantar el proyecto
 'npm run dev'
 
-Juego TIC TAC TOE
+1 - Juego TIC TAC TOE
 
-Mouse follower 
+2 - Mouse follower 
 
-
-Prueba tecnica para trainee
+3 - Prueba tecnica para trainee
